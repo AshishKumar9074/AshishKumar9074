@@ -29,7 +29,6 @@
 
 ![](https://komarev.com/ghpvc/?username=AshishKumar9074&color=blue)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AshishKumar9074&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
