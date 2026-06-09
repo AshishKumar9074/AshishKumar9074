@@ -1,28 +1,35 @@
 # Hey, I'm Ashish Kumar 👋
 
-### Aspiring AI Engineer | Data Science & Machine Learning Enthusiast
+### 🤖 Aspiring AI Engineer
 
-- Python
-- Data Science
-- Machine Learning
-- Deep Learning
+
+| 🚀 Focus Area | 📚 Current Learning |
+|--------------|-------------------|
+| Data Science | Machine Learning |
+| Deep Learning | Neural Networks |
+| AI Engineering | MLOps Basics |
+| Open Source | Python Projects |
+
 
 
 ## 🛠️ Tech Stack
 
-- Python
-- NumPy
-- Pandas
-- Machine Learning
-- Deep Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-orange?style=for-the-badge)
 
+## 🎯 Right Now
 
-## 🔥 Current Goals
+- 🔭 Building Data Science Projects
+- 🌱 Learning Deep Learning
+- 🤖 Exploring AI Engineering
+- 📊 Practicing Data Analysis
+- 🌍 Contributing to Open Source
 
-- Become an AI Engineer
-- Build ML & DL Projects
-- Contribute to Open 
+![](https://komarev.com/ghpvc/?username=AshishKumar9074&color=blue)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=AshishKumar9074&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats
 
