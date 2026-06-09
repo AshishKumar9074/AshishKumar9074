@@ -1,36 +1,26 @@
 # Hey, I'm Ashish Kumar 👋
 
-## 🚀 About Me
-🎓 IT Student
+### Aspiring AI Engineer | Data Science & Machine Learning Enthusiast
 
-💻 Currently Learning:
-- Python
-- Data Science
-- Machine Learning
-- Deep Learning
+...your About Me section...
 
-🌱 My Goal:
-- Become an AI Engineer
-- Build ML & DL Projects
-- Contribute to Open Source
+## 🛠️ Tech Stack
 
-## 🛠 Tech Stack
+...your tech stack...
 
-- Python
-- NumPy
-- Pandas
-- Machine Learning
-- Deep Learning
+## 🔥 Current Goals
 
-## 📚 Currently Learning
+...your goals...
 
-- Python Programming
-- Data Analysis
-- Machine Learning Algorithms
-- Neural Networks
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AshishKumar9074&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AshishKumar9074&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AshishKumar9074&theme=tokyonight)
 
 ## 📫 Connect With Me
 
 📧 Email: ashish219ashi@gmail.com
 💻 GitHub: https://github.com/AshishKumar9074
-⭐ Always learning and building!
