@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Ashish+Kumar;Aspiring+AI+Engineer;Python+%7C+Data+Science+%7C+ML;Deep+Learning+Enthusiast;Building+AI+Projects+Every+Day" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Hey+%F0%9F%91%8B+I'm+Ashish+Kumar;Aspiring+AI+Engineer;Python+%7C+Data+Science+%7C+ML;Deep+Learning+Enthusiast;Building+AI Projects are comming soon " />
 </p>
 
 ### 🤖 Aspiring AI Engineer
