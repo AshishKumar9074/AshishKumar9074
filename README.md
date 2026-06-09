@@ -2,15 +2,27 @@
 
 ### Aspiring AI Engineer | Data Science & Machine Learning Enthusiast
 
-...your About Me section...
+- Python
+- Data Science
+- Machine Learning
+- Deep Learning
+
 
 ## 🛠️ Tech Stack
 
-...your tech stack...
+- Python
+- NumPy
+- Pandas
+- Machine Learning
+- Deep Learning
+
 
 ## 🔥 Current Goals
 
-...your goals...
+- Become an AI Engineer
+- Build ML & DL Projects
+- Contribute to Open 
+
 
 ## 📊 GitHub Stats
 
@@ -20,7 +32,10 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AshishKumar9074&theme=tokyonight)
 
-## 📫 Connect With Me
+## 📫 Reach Me
 
-📧 Email: ashish219ashi@gmail.com
-💻 GitHub: https://github.com/AshishKumar9074
+LinkedIn: https://www.linkedin.com/in/ashish-yadav-8305aa33b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+Email: ashish219ashi@gmail.com
+
+⭐ Always Learning • Always Building • Always Improving
