@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hey, I'm Ashish Kumar 👋
 
-<!--
-**AshishKumar9074/AshishKumar9074** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+🎓 IT Student
 
-Here are some ideas to get you started:
+💻 Currently Learning:
+- Python
+- Data Science
+- Machine Learning
+- Deep Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 My Goal:
+- Become an AI Engineer
+- Build ML & DL Projects
+- Contribute to Open Source
+
+## 🛠 Tech Stack
+
+- Python
+- NumPy
+- Pandas
+- Machine Learning
+- Deep Learning
+
+## 📚 Currently Learning
+
+- Python Programming
+- Data Analysis
+- Machine Learning Algorithms
+- Neural Networks
+
+## 📫 Connect With Me
+
+📧 Email: yourname@gmail.com
+💻 GitHub: https://github.com/AshishKumar9074
+⭐ Always learning and building!
